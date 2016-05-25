@@ -2,10 +2,10 @@ from setuptools import setup, find_packages
 
 setup(name='databin',
       version='0.1',
-      description="A pastebin for tables",
+      description="A tweaked version of pudo's pastebin",
       long_description="",
       classifiers=[],
-      keywords='pastebin data tables',
+      keywords='pastable pastebin data tables',
       author='Friedrich Lindenberg',
       author_email='friedrich@pudo.org',
       url='http://pudo.org',

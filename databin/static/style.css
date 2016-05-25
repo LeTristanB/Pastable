@@ -53,7 +53,8 @@ textarea {
 }
 
 table, table th, table td {
-    font-size: 13px;
+    font-size: 12px;
+    font-family: monospace;
 }
 
 .table-striped tbody tr:nth-child(odd) td, .table-striped tbody tr:nth-child(odd) th {
